@@ -1,0 +1,105 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Please select all of the valid IP addresses. Check all that apply."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "8.8.8.8",
+					"correct": "True"
+				},
+
+				{
+					"option": "192.168.1.1",
+					"correct": "True"
+				},
+
+				{
+					"option": "123.456.123.456",
+					"correct": "False"
+				},
+
+				{
+					"option": "257.70.312.49",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "How many IP addresses does a class C network have?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "1 address",
+					"correct": "False"
+				},
+
+				{
+					"option": "16,777,216 addresses",
+					"correct": "False"
+				},
+
+				{
+					"option": "254 addresses",
+					"correct": "True"
+				},
+
+				{
+					"option": "65,536 addresses",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What happens to the TTL field of an IP datagram every time it reaches a router?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "The TTL field is incremented by one.",
+					"correct": "False"
+				},
+
+				{
+					"option": "The TTL field is reset to zero.",
+					"correct": "False"
+				},
+
+				{
+					"option": "The TTL field is used for a cyclical redundancy check.",
+					"correct": "False"
+				},
+
+				{
+					"option": "The TTL field is decremented by one.",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

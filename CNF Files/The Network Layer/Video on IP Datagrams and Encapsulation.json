@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on IP Datagrams and Encapsulation",
+		"activityType":"video",
+		"videoURL":"IP Datagrams and Encapsulation.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on IP Datagrams and Encapsulation"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

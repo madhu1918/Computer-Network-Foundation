@@ -1,0 +1,12 @@
+[{
+	"title": "Discussion Activity",
+	"activityType": "quiz",
+	"quizDescription": [{
+			"text": "Looking up IP Address<br><b>Your IP address is no secret.</b><br>A lot of people worry that their IP address might reveal their name, home address, age, what they look at online and more. That's just not the case. Sure, they might find out some interesting information, but nothing revealing.<br>Let's explore what you can discover by running a real IP address through an IP Lookup website like<a href=\"https://whatismyipaddress.com/\"> this one</a><br>There are a handful of practical reasons people use IP Lookup, even with its limitations:<ul><li>Law enforcement and fraud investigators use online tools to see what ISP is hosting a spammer.</li><li>Blacklist databases use it to find spammers or other violators and block their access to email servers.</li><li>Retailers often use IP Lookup to make sure someone charging thousands of dollars is at the mailing address linked to the card...and not actually overseas with a stolen credit account.</li><li>You can use it to verify that someone who tells you in an email that they're across town isn't really in an abandoned warehouse in another country.</li></ul><b>What do you think?</b> Share your reflections with your classmates."
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion Activity"
+	}]
+}]

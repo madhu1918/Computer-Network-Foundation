@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on TCP-IP Five layer Network Model",
+		"activityType":"video",
+		"videoURL":"The TCP-IP Five-Layer Network Model.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on TCP-IP Five layer Network Model"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Firewalls",
+		"activityType":"video",
+		"videoURL":"Introduction to the Transport and Application Layers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Firewalls"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

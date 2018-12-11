@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on The Application Layer",
+		"activityType":"video",
+		"videoURL":"The Application Layer and the OSI Model.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on The Application Layer"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

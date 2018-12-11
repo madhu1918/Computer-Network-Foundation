@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Connection oriented and Connectionless Protocols",
+		"activityType":"video",
+		"videoURL":"Connection-oriented and Connectionless Protocols.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Connection oriented and Connectionless Protocols"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

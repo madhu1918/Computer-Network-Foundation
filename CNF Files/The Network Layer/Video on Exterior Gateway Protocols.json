@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Exterior Gateway Protocols",
+		"activityType":"video",
+		"videoURL":"Exterior Gateway Protocols.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exterior Gateway Protocols"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Dissection of a TCP Segment",
+		"activityType":"video",
+		"videoURL":"Dissection of a TCP Segment.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Dissection of a TCP Segment"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

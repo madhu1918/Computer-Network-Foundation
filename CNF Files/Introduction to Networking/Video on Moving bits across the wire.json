@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Moving bits across the wire",
+		"activityType":"video",
+		"videoURL":"Moving Bits Across the Wire.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Moving bits across the wire"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

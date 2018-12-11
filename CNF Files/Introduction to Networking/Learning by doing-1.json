@@ -1,0 +1,105 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Which of the following is an example of a network layer protocol?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "UDP",
+					"correct": "False"
+				},
+
+				{
+					"option": "Ethernet",
+					"correct": "False"
+				},
+
+				{
+					"option": "IP",
+					"correct": "True"
+				},
+
+				{
+					"option": "TCP",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What's the difference between a client and a server?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Clients and servers are different names for the same thing.",
+					"correct": "False"
+				},
+
+				{
+					"option": "A client requests data, and a server responds to that request.",
+					"correct": "True"
+				},
+
+				{
+					"option": "A server requests data, and a client responds to that request.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Clients operate on the data link layer, and servers operate on the network layer.",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": " Which of the following are examples of layers of our five-layer network model? Check all that apply."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "The transport layer",
+					"correct": "True"
+				},
+
+				{
+					"option": "The presentation layer",
+					"correct": "False"
+				},
+
+				{
+					"option": "The physical layer",
+					"correct": "True"
+				},
+
+				{
+					"option": "The application layer",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

@@ -1,0 +1,105 @@
+[{
+	"title": "Learning by doing-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What does CIDR stand for?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Classless Internet Destination Routing",
+					"correct": "False"
+				},
+
+				{
+					"option": "Classfull Identification Routing",
+					"correct": "False"
+				},
+
+				{
+					"option": "Classless Inter-Domain Routing",
+					"correct": "True"
+				},
+
+				{
+					"option": "Classfull Inter-Destination Routing",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Which of the following is a correct form of CIDR notation?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "192.168.1.0 + 255.255.255.0",
+					"correct": "False"
+				},
+
+				{
+					"option": "192.168.1.0/24",
+					"correct": "True"
+				},
+
+				{
+					"option": "192.168.1.0.24",
+					"correct": "False"
+				},
+
+				{
+					"option": "192.168.1.0:24",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "How many octets does a subnet mask have?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "1",
+					"correct": "False"
+				},
+
+				{
+					"option": "2",
+					"correct": "False"
+				},
+
+				{
+					"option": "3",
+					"correct": "False"
+				},
+
+				{
+					"option": "4",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

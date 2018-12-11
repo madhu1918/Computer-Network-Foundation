@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Address Resolution Protocol",
+		"activityType":"video",
+		"videoURL":"Address Resolution Protocol.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Address Resolution Protocol"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

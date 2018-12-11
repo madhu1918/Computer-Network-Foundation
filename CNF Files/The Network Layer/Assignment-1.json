@@ -1,0 +1,69 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"Calculate network address, first host, broadcast address, last host number and subnet mask for following IPv4 network addresses. Number of subnets a network can have is depended on prefix, <a href=\"http://2.bp.blogspot.com/_w218bq5MsyY/S5D12ahi6uI/AAAAAAAAADs/R8N7y09Fs4M/s400/cidr.JPG<\">see details in this image</a>"
+		},
+		{
+		"text":"<b>Sample Question and Answer:</b><br><b>192.168.0.123/24</b><br>a. Network Address : 192.168.0.0<br>b. First Host Number: 192.168.0.1<br>c. Broadcast address : 192.168.0.255<br>d. Last Host Number : 192.168.0.254<br>e. Subnet Mask : 255.255.224.0"
+		},
+		{
+		"text":"<br><b>Question:</b><br><b>134.24.171.184/19</b>"
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Network Address "
+			}],
+		"max_marks": 0.5,
+		"answer": "134.24.160.0",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}, {
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"First Host Number: "
+			}],
+		"max_marks": 0.5,
+		"answer": "134.24.160.1",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}, {
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Broadcast address :"
+			}],
+		"max_marks": 0.5,
+		"answer": "134.24.191.255",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	},
+	{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Last Host Number :"
+			}],
+		"max_marks": 0.5,
+		"answer": "134.24.191.254",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	},
+	{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Subnet Mask :"
+			}],
+		"max_marks": 0.5,
+		"answer": "255.255.224.0",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}
+]
+}]

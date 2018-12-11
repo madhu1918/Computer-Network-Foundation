@@ -1,0 +1,18 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>Ethernet Over twisted pair technologies</b><br>Ethernet over twisted pair technologies are the communications protocols that determine how much data can be sent over a twisted pair cable, how quickly that data can be sent, and how long a network cable can be before the data quality begins to degrade."
+		},
+		{
+			"text": "<br>There are many different variants of these in use. In order to learn more about these, you can read more about Ethernet over Twisted Pair technologies<a href=\"https://en.wikipedia.org/wiki/Ethernet_over_twisted_pair\"> Click here</a>"
+		},
+		{
+			"text": "<br>Different situations may require Unshielded Twisted pair (UTP)/STP cables to be wired according to different wiring conventions. This means that the individual wires in the cable have to be connected in different orders to different sets of pins in the RJ-45 connectors. The following are main cable types that are obtained by using specific wiring conventions:<br>1. Ethernet Straight-through<br>2. Ethernet Crossover"
+		},
+		{
+			"text": "The <a href=\"http://farm9.staticflickr.com/8509/8512968348_3dc6a10eb4.jpg\">figure shows</a> the typical application of these cables as well as a comparison of these three cable types.Using a crossover or straight-through cable incorrectly between devices may not damage the devices, but connectivity and communication between the devices will not take place. This is a common error in the lab and checking that the device connections are correct should be the first troubleshooting action if connectivity is not achieved. "
+		}
+	]
+}]

@@ -1,0 +1,12 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "We’ve covered a few different routing protocol types, but we haven’t discussed the details of how the actual implementation of these protocols might matter.The most common distance vector protocols are RIP, or Routing Information Protocol, and EIGRP, or Enhanced Interior Gateway Routing Protocol. The most common link state protocol is OSPF, or Open Shortest Path First.<br><br>In terms of exterior gateway protocols, there is only one in use today. The entire Internet needs to agree on how to exchange this sort of information, so a single standard has emerged. This standard is known as BGP, or Border Gateway Protocol."
+		},
+		{
+			"text": "You can learn more about any of these protocols and how they’re implemented on Wikipedia:<br><ul><li><b>RIP:</b><a href=\"https://en.wikipedia.org/wiki/Routing_Information_Protocol\"> Click here</a></li><li><b>EIGRP:</b><a href=\"https://en.wikipedia.org/wiki/Enhanced_Interior_Gateway_Routing_Protocol\"> Click here</a></li><li><b>OSPF:</b><a href=\"https://en.wikipedia.org/wiki/Open_Shortest_Path_First\"> Click here</a></li><li><b>BGP:</b><a href=\"https://en.wikipedia.org/wiki/Border_Gateway_Protocol\"> Click here</a>"
+		}
+	]
+}]

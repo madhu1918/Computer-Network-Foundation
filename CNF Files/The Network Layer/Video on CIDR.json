@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on CIDR",
+		"activityType":"video",
+		"videoURL":"CIDR.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on CIDR"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

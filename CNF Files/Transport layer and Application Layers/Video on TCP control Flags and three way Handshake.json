@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on TCP control Flags and three way Handshake",
+		"activityType":"video",
+		"videoURL":"TCP Control Flags and the Three-way Handshake.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on TCP control Flags and three way Handshake"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

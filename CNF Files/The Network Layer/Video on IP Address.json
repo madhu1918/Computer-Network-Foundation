@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on IP Address",
+		"activityType":"video",
+		"videoURL":"IP Addresses.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on IP Address"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

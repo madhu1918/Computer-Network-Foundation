@@ -1,0 +1,12 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>RFCs and Standards:</b>In the video about non-routable address space, we introduced the concept of an RFC, of Request for Comments. RFCs started as a way for academics to discuss how their computers might talk to each other.<br>An RFC would be published, people would leave comments, eventually a consensus would be formed, and a new standard would be developed.<br><br>Over many decades, RFCs have come to belong to the IETF, or Internet Engineering Task Force, which is an open community charged with developing and maintaining the standards required for the Internet to continue to operate.<br><br>"
+		},
+		{
+			"text": "You can learn more about the IETF and browse the impressively large collections of RFCs<a href=\"https://www.ietf.org/\"> here</a>RFCs have a long history of April Fool’s Day jokes. You can read about some of these humorous RFCs on Wikipedia <a href=\"https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments\"> here</a> My personal favorites are RFC 1149 and and RFC 3514, both of which might be funnier once we’ve tackled the next module"
+		}
+	]
+}]

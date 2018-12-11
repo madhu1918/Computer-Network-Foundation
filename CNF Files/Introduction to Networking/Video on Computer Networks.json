@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Computer Networks",
+		"activityType":"video",
+		"videoURL":"Computer Networks.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Computer Networks"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

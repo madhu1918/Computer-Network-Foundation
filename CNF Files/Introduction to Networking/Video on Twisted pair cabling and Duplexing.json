@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Twisted pair cabling and Duplexing",
+		"activityType":"video",
+		"videoURL":"Twisted Pair Cabling and Duplexing.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Twisted pair cabling and Duplexing"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

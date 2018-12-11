@@ -1,0 +1,63 @@
+[{
+	"title": "Assignment-8",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>163.182.170.191/30</b>"
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Network Address "
+			}],
+		"max_marks": 0.5,
+		"answer": "163.182.170.188",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}, {
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"First Host Number: "
+			}],
+		"max_marks": 0.5,
+		"answer": "163.182.170.189",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}, {
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Broadcast address :"
+			}],
+		"max_marks": 0.5,
+		"answer": "163.182.170.191",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	},
+	{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Last Host Number :"
+			}],
+		"max_marks": 0.5,
+		"answer": "163.182.170.190",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	},
+	{
+		"questionType": "fillintheblank",
+		"questionText": [
+			{
+				"text":"Subnet Mask :"
+			}],
+		"max_marks": 0.5,
+		"answer": "255.255.255.252",
+		"correct_feedback": "Correct",
+		"wrong_feedback": "Incorrect"
+	}
+]
+}]

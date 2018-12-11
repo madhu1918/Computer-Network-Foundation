@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Ethernet and MAC address",
+		"activityType":"video",
+		"videoURL":"Ethernet and MAC Addresses.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Ethernet and MAC address"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

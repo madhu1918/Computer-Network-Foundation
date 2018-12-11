@@ -1,0 +1,72 @@
+[{
+	"title": "Learning by doing-3",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What is the type of modulation used by twisted pair cable computer networks known as?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Line crimping",
+					"correct": "False"
+				},
+
+				{
+					"option": "Simplex communication",
+					"correct": "False"
+				},
+
+				{
+					"option": "Line coding",
+					"correct": "True"
+				},
+
+				{
+					"option": "RJ45",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What's the difference between full and half duplex?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Full duplex is slower than half duplex.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Full duplex allows communications in two directions at the same time; half duplex means that only one side can communicate at a time.",
+					"correct": "True"
+				},
+
+				{
+					"option": "Full duplex is a form of simplex communications.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Half duplex occurs when hubs are in use; full duplex occurs when switches are in use.",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

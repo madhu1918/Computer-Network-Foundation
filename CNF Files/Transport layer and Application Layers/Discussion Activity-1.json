@@ -1,0 +1,12 @@
+[{
+	"title": "Discussion Activity",
+	"activityType": "quiz",
+	"quizDescription": [{
+			"text": "How does Skype works ? (Does it uses TCP or UDP or both TCP and UDP)<br>Have you ever use skype before? Maybe you used it, for office or personal purposes. If you have never used before try it now.<br><b>What do you think?</b>Share your reflections with your classmates."
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion Activity"
+	}]
+}]

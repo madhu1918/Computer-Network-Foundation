@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Course Introduction",
+		"activityType":"video",
+		"videoURL":"Course Introduction.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Course Introduction"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

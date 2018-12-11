@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Network ports and Patch Panels",
+		"activityType":"video",
+		"videoURL":"Network Ports and Patch Panels.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Network ports and Patch Panels"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

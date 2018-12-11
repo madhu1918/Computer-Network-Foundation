@@ -1,0 +1,107 @@
+[{
+	"title": "Learning by doing-3",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Select examples of routing protocols. Check all that apply."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Border Gateway Protocol",
+					"correct": "True"
+				},
+
+				{
+					"option": "User Datagram Protocol",
+					"correct": "False"
+				},
+
+				{
+					"option": "Transmission Control Protocol",
+					"correct": "False"
+				},
+
+				{
+					"option": "Routing Information Protocol",
+					"correct": "True"
+				},
+				{
+					"option": "Hypertext Transfer Protocol",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Who is permitted to use non-routable address space?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "The IANA",
+					"correct": "False"
+				},
+
+				{
+					"option": "It's for testing purposes only",
+					"correct": "False"
+				},
+
+				{
+					"option": "Anyone",
+					"correct": "True"
+				},
+
+				{
+					"option": "The IETF",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "A typical routing table may contain which of the following? Check all that apply"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Destination address",
+					"correct": "False"
+				},
+
+				{
+					"option": "Total hops",
+					"correct": "True"
+				},
+
+				{
+					"option": "TTL",
+					"correct": "False"
+				},
+
+				{
+					"option": "Destination network",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+
+	]
+}]

@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Interior Gateway Protocols",
+		"activityType":"video",
+		"videoURL":"Interior Gateway Protocols.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Interior Gateway Protocols"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+[{
+	"title": "Learning by doing-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Which of the following statements accurately describe the differences between a hub and a switch? Check all that apply."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "A hub is a physical layer device, and a switch is a data link layer device.",
+					"correct": "True"
+				},
+
+				{
+					"option": "A hub causes larger collision domains.",
+					"correct": "True"
+				},
+
+				{
+					"option": "Hubs are more sophisticated versions of switches.",
+					"correct": "False"
+				},
+
+				{
+					"option": "A switch remembers which devices are connected on each interface, while a hub does not.",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What does LAN stand for?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Locally available network",
+					"correct": "False"
+				},
+
+				{
+					"option": "Little area network",
+					"correct": "False"
+				},
+
+				{
+					"option": "Large area network",
+					"correct": "False"
+				},
+
+				{
+					"option": "Local area network",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What's a router?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "A more advanced version of a switch",
+					"correct": "False"
+				},
+
+				{
+					"option": "A device that knows how to forward data between independent networks",
+					"correct": "True"
+				},
+
+				{
+					"option": "A physical layer device that prevents crosstalk",
+					"correct": "False"
+				},
+
+				{
+					"option": "A network device used specially for fiber cables",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

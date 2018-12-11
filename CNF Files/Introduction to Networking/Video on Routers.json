@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Routers",
+		"activityType":"video",
+		"videoURL":"Routers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Routers"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

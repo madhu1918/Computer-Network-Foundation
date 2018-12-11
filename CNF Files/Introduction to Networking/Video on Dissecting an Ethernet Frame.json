@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Dissecting an Ethernet Frame",
+		"activityType":"video",
+		"videoURL":"Dissecting an Ethernet Frame.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Dissecting an Ethernet Frame"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

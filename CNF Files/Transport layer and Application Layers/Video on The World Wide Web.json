@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on The World Wide Web",
+		"activityType":"video",
+		"videoURL":"The World Wide Web.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on The World Wide Web"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,189 @@
+{
+    "activities": [],
+    "learningObjectives": [
+        "To master the terminology and concepts of OSI reference model and TCP-IP reference model.",
+        "To master the concepts of protocols, network interfaces and performances of LAN, WAN.",
+        "To be familiar with wireless networking concepts.",
+        "To be familiar with contemporary issues in networking technologies.",
+        "To be familiar with network tools and network programming."
+
+    ],
+    "overview": [
+        " At the end course, following is what we try to achieve: tell why is it important to have a computer network, identify networking equipment , label networking equipment, list components of a network, recognize importance of layered architecture, select networking equipment based on layered requirements, sketch a given network using a network diagram, create a workbench of miniature working network, describe the importance of a transport protocol, defend reliability of a transport protocol, distinguish between connectionless and connection oriented protocols, describe TCP handshake, experiment pack sniffing, explain how IP networking works. Summarize the big picture of internet routing, apply networking commands on various operating system for state of current networks, choose tools required for solving day to day activities, which run over networks, consider day to day network addressing requirements of internet community, relate how short messaging protocols work at network layer, and at transport layer, Use socket interface to test TCP and UDP protocols, construct a client server architecture for networking application,examine difference between sockets in kernel and raw interfaces, show that socket programming is a way to create applications over network, complete a networking application,examine working on a networked application, and explain networking is way to make things bigger/scalable."
+    ],
+    "title": "CNF",
+    "units": [{
+            "activities": [
+                "Video on Computer Networks",
+                "Video on Course Introduction",
+                "Video on TCP-IP Five layer Network Model",
+                "Reading Activity-1",
+                "Learning by doing-1",
+                "Video on Cables",
+                "Video on Hubs and Switches",
+                "Video on Routers",
+                "Video on Servers and Clients",
+                "Discussion Activity",
+                "Learning by doing-2",
+                "Video on Moving bits across the wire",
+                "Video on Twisted pair cabling and Duplexing",
+                "Reading Activity-2",
+                "Video on Network ports and Patch Panels",
+                "Learning by doing-3",
+                "Video on Ethernet and MAC address",
+                "Video on Unicast, Multicast and Broadcast",
+                "Video on Dissecting an Ethernet Frame",
+                "Learning by doing-4",
+                "Assignment-1"
+            ],
+            "learningObjectives": [
+                "Describe how the TCP/IP five layer network model works.",
+                "Identify basic networking devices.",
+                "Label each of the five layers in the TCP/IP network model.",
+                "Describe how the physical layer works.",
+                "Describe how the data link layer works."
+            ],
+            "overview": [
+                "In the first day of this course, we will cover the basics of computer networking. We will learn about the TCP/IP and OSI networking models and how the network layers work together. We'll also cover the basics of networking devices such as cables, hubs and switches, routers, servers and clients. We'll also explore the physical layer and data link layer of our networking model in more detail. By the end of this module, you will know how all the different layers of the network model fit together to create a network."
+            ],
+            "title": "Introduction to Networking"
+        },
+        {
+            "activities": [
+                "Video on The Internet",
+                "Video on Introduction to Network Layer",
+                "Video on IP Address",
+                "Video on IP Datagrams and Encapsulation",
+                "Video on IP Address Classes",
+                "Video on Address Resolution Protocol",
+                "Discussion Activity-1",
+                "Learning by doing-1",
+                "Video on Subnetting",
+                "Video on Subnet Masks",
+                "Video on Basic Binary Math",
+                "Video on CIDR",
+                "Learning by doing-2",
+                "Video on Basic Routing Concepts",
+                "Video on Routing Tables",
+                "Video on Interior Gateway Protocols",
+                "Video on Exterior Gateway Protocols",
+                "Reading Activity-1",
+                "Video on Non Routable Address Space",
+                "Reading Activity-2",
+                "Learning by doing-3",
+                "Assignment-1",
+                "Assignment-2",
+                "Assignment-3",
+                "Assignment-4",
+                "Assignment-5",
+                "Assignment-6",
+                "Assignment-7",
+                "Assignment-8",
+                "Assignment-9",
+                "Assignment-10"
+                
+
+            ],
+            "learningObjectives": [
+                "Describe the IP addressing scheme.",
+                "Describe how subnetting works.",
+                "Describe subnets by performing basic math in binary.",
+                "Demonstrate how encapsulation works.",
+                "Describe how ARP protocols allow different layers of the network to communicate.",
+                "Describe how the Internet works.",
+                "Understand the basics of routing and routing protocols."
+
+            ],
+            "overview": [
+                "In the second day of this course, we'll explore the network layer in more depth. We'll learn about the IP addressing scheme and how subnetting works. We'll explore how encapsulation works and how protocols such as ARP allow different layers of the network to communicate. We'll also cover the basics of routing, routing protocols, and how the Internet works. By the end of this module, you'll be able to describe the IP addressing scheme, understand how subnetting works, perform binary math to describe subnets, and understand how the Internet works."
+            ],
+            "title": "The Network Layer"
+        },
+        {
+            "activities": [
+                "Video on The World Wide Web",
+                "Video on Introduction to Transport and Application Layers",
+                "Video on The Transport Layer",
+                "Video on Dissection of a TCP Segment",
+                "Video on TCP control Flags and three way Handshake",
+                "Video on TCP Socket States",
+                "Video on Connection oriented and Connectionless Protocols",
+                "Reading Activity-1",
+                "Video on Firewalls",
+                "Discussion Activity-1",
+                "Learning by doing-1",
+                "Video on The Application Layer",
+                "Video on The Application Layer and OSI Model",
+                "Video on All the Layers working in Unison",
+                "Learning by doing-2",
+                "Assignment-1"
+            ],
+            "learningObjectives": [
+                "Describe TCP ports and sockets.",
+                "Examine the different components of a TCP header.",
+                "Compare differences between connection-oriented and connectionless protocols.",
+                "Explain how TCP is used to ensure data integrity."
+            ],
+            "overview": [
+                " In the third day of this course, we'll explore the transport and application layers. By the end of this module, you'll be able to describe TCP ports and sockets, identify the different components of a TCP header, show the difference between connection-oriented and connectionless protocols, and explain how TCP is used to ensure data integrity."
+            ],
+            "title": "Transport layer and Application Layers"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Cultural Event"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Networking Services"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Week Exam - 1"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Connecting to Internet and Network Commands"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Python Client - Server - Model - 1 (Transport Layer)"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Python Client - Server - Model - 2 (Transport Layer)"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Python Client - Server - Model - 3 (Transport Layer)"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Troubleshooting and Future of Networking"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Week Exam - 2"
+        }
+
+
+    ]
+}

@@ -1,0 +1,34 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "<b>Network Tour</b><br>The campus network tour is an exercise to discover all devices/equipment that are essential in working of current local area network. The network tour helps MSIT students in visiting learning center labs and other networking infrastructure with an objective of identifying all networking devices and equipment inside the university. This tour also helps in understanding the topologies involved in creating such networks. More over equipment study helps in understanding physical layer of the layered network stack."
+			},
+			{
+				"text": "<br>This activity starts at once desk inside MSIT lab, students will be made into teams for this campus network tour. With help and permissions from system/network administrator and other supporting personal student teams will physically inspect each network element and document details which can help in further study. If the campus network is large each of the teams will be allocated separate blocks/buildings for network inventory auditing. Devices / network equipment that were identified as part of network tour are building blocks for any network."
+			},
+			{
+				"text": "<br>This module helps you obtain familiarity with the devices and build a overall high level diagram of how these devices are connected to create your campus network diagram. A network diagram is like a blue-print that is used to convey the topology of the network (graphical form). When commented with the link and device characteristics, it gives a high level view of the network that is useful analyzing an existing network for bottlenecks. In this task you should create a network diagram for the facilities you have visited during campus tour."
+			},
+			{
+				"text": "<br>A network report contains the network diagram, along with all the inventory associated with the network. The inventory can be represented based on type of equipment like connectors, switches, hubs, routers, firewall , gateway etc. In this task list out all the equipment in the formats specified in previous module table. Create an additional column in the table such that equipments are classified based on the layer of their operation."
+			},
+			{
+				"text": "<br><b>Task description : </b><br>Once tour is complete, create network diagram, which is a schematic depicting the nodes and connections amongst nodes in a computer network. A high level network diagram can be represented on a piece of paper that contains details like topology, nodes, connections, equipment etc. Students are free to use any software of their choice for creating diagrams like microsoft word, paint, powerpoint etc. Plot the basic layouts of the network, show the inter-connections between various network elements. You may start with devices in the edge of the network and word inwards. Represent in the diagram important network elements (equipments that were uniquely labeled in the network tour). Label the links with the type of physical medium, supported speed, physical layer standards supported, cumulative number of computers at either end of the link. For all the physical mediums (cables, wires) mention the type of standard that is being used, approx. distance in meters."
+			},
+			{
+				"text": "<br>Create a network report that contains the network diagrams along with inventory of network elements. You may also report possible bottlenecks, alternative approaches for better networking services. Represent the report all the network elements based on equipment type and based on layer in which the equipment operates. List out different types of networking devices that are used in the network, mention capabilities of these devices,pictures/photographs, ports/connectors, physical layer standards, limitations, layer in which a device operates (For example cables, wires are at physical layer etc.) "
+			},
+			{
+				"text": "<br>Mention about physical media used in different parts of your network (example wireless, fiber optic, copper cable, straight, twisted pair etc. type of cables). The format of your observation could be: Between points A (network element) & B(network element) | Physical medium used | Properties of physical channel."
+			},
+			{
+				"text": "<br><b>Submission must contain</b><br>1. Report must have complete details of network elements in the area/campus building assigned to you.<br>2. Network diagrams, layouts & topologies<br><br>Google Docs link should be submitted in the box below, Share the google docs to your mentor."
+			}
+		]
+	}]
+}]

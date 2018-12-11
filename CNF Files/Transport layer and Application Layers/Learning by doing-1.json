@@ -1,0 +1,145 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What ordering of TCP flags makes up the Three-way Handshake?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "SYN, ACK, SYN, ACK",
+					"correct": "False"
+				},
+
+				{
+					"option": "FIN, FIN/ACK, ACK",
+					"correct": "False"
+				},
+
+				{
+					"option": "SYN, ACK, FIN",
+					"correct": "False"
+				},
+
+				{
+					"option": "SYN, SYN/ACK, ACK",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Transport layer protocols, like TCP and UDP, introduce the concept of a port. How many bits is a port field?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "4 bits",
+					"correct": "False"
+				},
+
+				{
+					"option": "16,777,216 addresses8 bits",
+					"correct": "False"
+				},
+
+				{
+					"option": "16 bits",
+					"correct": "True"
+				},
+
+				{
+					"option": "32 bits",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Please select all valid TCP control flags"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "ACK",
+					"correct": "True"
+				},
+
+				{
+					"option": "WAIT",
+					"correct": "False"
+				},
+
+				{
+					"option": "URG",
+					"correct": "True"
+				},
+
+				{
+					"option": "CLOSE",
+					"correct": "True"
+				},
+				{
+					"option": "RST",
+					"correct": "False"
+				},
+				{
+
+					"option": "LISTEN",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A device that blocks traffic that meets certain criteria is know as a ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Router",
+					"correct": "False"
+				},
+
+				{
+					"option": "Hub",
+					"correct": "False"
+				},
+
+				{
+					"option": "Switch",
+					"correct": "False"
+				},
+
+				{
+					"option": "Firewall",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]
