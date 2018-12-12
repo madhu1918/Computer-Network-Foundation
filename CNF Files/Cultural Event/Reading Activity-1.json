@@ -1,0 +1,12 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>For Windows, MAC Users:</b><br>Download the Wireshark Stable Release (2.6.5) Tool :<a href=\"https://www.wireshark.org/#download\"> Click here</a>"
+		},
+		{
+			"text": "<b>For Ubuntu Users:</b><br>1. Open terminal by either pressing Ctrl+Alt+T or searching for ‘terminal’ from app launcher. When it opens, run command:<br>  sudo add-apt-repository ppa:wireshark-dev/stable<br><br>2. Finally run following commands one by one in terminal to install Wireshark 2.6:<br>  sudo apt-get update<br>  sudo apt-get install wireshark"
+		}
+	]
+}]

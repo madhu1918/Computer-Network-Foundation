@@ -130,15 +130,37 @@
             "title": "Transport layer and Application Layers"
         },
         {
-            "activities": [],
-            "learningObjectives": [],
-            "overview": [],
+            "activities": [
+                "Reading Activity-1",
+                "Video on Wireshark Basics",
+                "Video on Wireshark Installation",
+                "Video on Wireshark Capturing Packets",
+                "Video on Wireshark Packet Analysing"
+            ],
+            "learningObjectives": [
+                "A network packet analyzer will try to capture network packets and tries to display that packet data as detailed as possible.",
+                "You could think of a network packet analyzer as a measuring device used to examine what's going on inside a network cable, just like a voltmeter is used by an electrician to examine what's going on inside an electric cable (but at a higher level, of course). "
+            ],
+            "overview": [
+                " Understand network packet analyzer, Use wireshark tool for network packet sniffing."
+            ],
             "title": "Cultural Event"
         },
         {
-            "activities": [],
-            "learningObjectives": [],
-            "overview": [],
+            "activities": [
+                ""
+            ],
+            "learningObjectives": [
+                "Describe why name resolution is important.",
+                "Identify the steps involved with a DNS lookup.",
+                "Understand the most common DNS record types.",
+                "Explain how DHCP makes network administration a simpler task.",
+                "Demonstrate how NAT technologies help keep networks secure and preserve IP address space.",
+                "Describe how VPNs and proxies help users get connected and stay secure."
+            ],
+            "overview": [
+                "In the fifth day of this course, we'll explore networking services. We'll learn about why we need DNS and how it works. We'll also show you why DHCP makes network administration a simpler task. By the end of this module, you'll be able to do describe how DNS and DHCP work, how NAT technologies help keep networks secure, and how VPNs and proxies help users connect and stay secured."
+            ],
             "title": "Networking Services"
         },
         {

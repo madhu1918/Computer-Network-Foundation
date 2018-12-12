@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Wireshark Basics",
+		"activityType":"video",
+		"videoURL":"28. Wireshark Basics.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Wireshark Basics"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+
