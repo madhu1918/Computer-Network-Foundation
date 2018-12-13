@@ -3,7 +3,10 @@
 	"activityType": "reading",
 	"quizDescription": [
 		{
-			"text": "Here are the list of commands in PDF link: <a href=\"https://drive.google.com/open?id=1EHOKVAkwPAIxNTEeXayNO0TKObCgrxXF\"> Click here</a>"
+			"text": "Here are the list of commands in PDF"
+		},
+		{
+				"attachment": ["Network Commands.pdf"]
 		}
 	]
 }]
