@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Proxy Services",
+		"activityType":"video",
+		"videoURL":"Proxy Services.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Proxy Services"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

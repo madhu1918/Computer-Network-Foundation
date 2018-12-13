@@ -1,0 +1,105 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What transport layer protocol does DNS normally use?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "UDP",
+					"correct": "True"
+				},
+
+				{
+					"option": "TCP",
+					"correct": "False"
+				},
+
+				{
+					"option": "ICMP",
+					"correct": "False"
+				},
+
+				{
+					"option": "IP",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A DNS TTL determines what?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "How many DNS resolutions can take place before the IP has to change",
+					"correct": "False"
+				},
+
+				{
+					"option": "How far away a DNS can be from you",
+					"correct": "False"
+				},
+
+				{
+					"option": "How many steps there are in the resolution process",
+					"correct": "False"
+				},
+
+				{
+					"option": "How long a DNS entry is allowed to be cached",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "How many root servers are there?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "8",
+					"correct": "False"
+				},
+
+				{
+					"option": "13",
+					"correct": "True"
+				},
+
+				{
+					"option": "16",
+					"correct": "False"
+				},
+
+				{
+					"option": "17",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

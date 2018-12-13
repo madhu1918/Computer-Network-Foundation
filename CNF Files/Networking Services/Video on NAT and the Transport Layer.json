@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on NAT and the Transport Layer",
+		"activityType":"video",
+		"videoURL":"NAT and the Transport Layer.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on NAT and the Transport Layer"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

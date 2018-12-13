@@ -1,0 +1,104 @@
+[{
+	"title": "Learning by doing-4",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "NAT addresses concerns over the dwindling IPv4 address space by ___________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "allowing networks to use fewer IP addresses overall.",
+					"correct": "False"
+				},
+
+				{
+					"option": "allowing users to move to IPv6 when they want.",
+					"correct": "False"
+				},
+
+				{
+					"option": "allowing computers using non-routable address space to communicate with the Internet.",
+					"correct": "True"
+				},
+
+				{
+					"option": "performing IP masquerading.",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "What technique allows for inbound traffic through a NAT?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Port preservation",
+					"correct": "False"
+				},
+
+				{
+					"option": "Port forwarding",
+					"correct": "True"
+				},
+
+				{
+					"option": "Port authority",
+					"correct": "False"
+				},
+				{
+					"option": "Ephemeral ports",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The total number of IPv4 addresses is approximately:"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "4.2 million",
+					"correct": "False"
+				},
+
+				{
+					"option": "4.2 billion",
+					"correct": "True"
+				},
+
+				{
+					"option": "4.2 trillion",
+					"correct": "False"
+				},
+
+				{
+					"option": "Uncountable",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

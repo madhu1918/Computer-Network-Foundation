@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Anatomy of a Domain Name",
+		"activityType":"video",
+		"videoURL":"Anatomy of a Domain Name.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Anatomy of a Domain Name"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

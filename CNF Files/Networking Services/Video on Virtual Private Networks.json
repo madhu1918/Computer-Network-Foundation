@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Virtual Private Networks",
+		"activityType":"video",
+		"videoURL":"Virtual Private Networks.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Virtual Private Networks"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

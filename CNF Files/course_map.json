@@ -148,7 +148,30 @@
         },
         {
             "activities": [
-                ""
+                "Video on Introduction to Network Services",
+                "Video on Why do we need DNS ?",
+                "Video on The many steps of name resolution",
+                "Video on DNS and UDP",
+                "Discussion Activity-1",
+                "Learning by doing-1",
+                "Video on Resource Record Types",
+                "Video on Anatomy of a Domain Name",
+                "Video on DNS Zones",
+                "Learning by doing-2",
+                "Video on Overview of DHCP",
+                "Video on DHCP in Action",
+                "Learning by doing-3",
+                "Video on Basics of NAT",
+                "Video on NAT and the Transport Layer",
+                "Video on NAT, Non - Routable Address Space and Limits of IPv4",
+                "Reading Activity-1",
+                "Learning by doing-4",
+                "Video on Virtual Private Networks",
+                "Video on Proxy Services",
+                "Reading Activity-2",
+                "Learning by doing-5",
+                "Reading Activity-3",
+                "Assignment-1"
             ],
             "learningObjectives": [
                 "Describe why name resolution is important.",

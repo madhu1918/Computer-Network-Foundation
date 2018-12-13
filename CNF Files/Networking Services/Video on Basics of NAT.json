@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Basics of NAT",
+		"activityType":"video",
+		"videoURL":"Basics of NAT.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Basics of NAT"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

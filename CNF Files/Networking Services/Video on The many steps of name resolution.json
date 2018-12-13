@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on The many steps of name resolution",
+		"activityType":"video",
+		"videoURL":"The Many Steps of Name Resolution.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on The many steps of name resolution"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

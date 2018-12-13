@@ -1,0 +1,16 @@
+[{
+	"title": "Discussion Activity",
+	"activityType": "quiz",
+	"quizDescription": [{
+			"text": "<b>Your Personal Website</b> "
+		},
+		{
+			"text": "Have you ever bought a domain name for a personal website? If so, share your experiences with your classmates. If you've never done this before, ask questions and learn from your classmates to explore more."
+		}
+
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion Activity"
+	}]
+}]

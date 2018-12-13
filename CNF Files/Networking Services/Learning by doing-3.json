@@ -1,0 +1,116 @@
+[{
+	"title": "Learning by doing-3",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "What are the four things that all computers need configured in order to operate on a modern network? Check all that apply."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "A default gateway",
+					"correct": "True"
+				},
+
+				{
+					"option": "An NTP server",
+					"correct": "False"
+				},
+
+				{
+					"option": "A name server",
+					"correct": "True"
+				},
+
+				{
+					"option": "A TCP port",
+					"correct": "False"
+				},
+				{
+					"option": "An IP address",
+					"correct": "True"
+				},
+				{
+					"option": "A subnet mask",
+					"correct": "True"
+				},
+				{
+					"option": "A MAC address",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "When using Fixed Allocation DHCP, what's used to determine a computer's IP?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "A record",
+					"correct": "False"
+				},
+
+				{
+					"option": "A MAC address",
+					"correct": "True"
+				},
+
+				{
+					"option": "A subnet mask",
+					"correct": "False"
+				},
+				{
+					"option": "Location",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The process by which a client configured to use DHCP attempts to get network configuration information is known as _________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "DHCP Offer",
+					"correct": "False"
+				},
+
+				{
+					"option": "DHCP Discovery",
+					"correct": "True"
+				},
+
+				{
+					"option": "DHCP Request",
+					"correct": "False"
+				},
+
+				{
+					"option": "DHCP Acknowledgement",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

@@ -1,0 +1,130 @@
+[{
+	"title": "Learning by doing-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "An A Record contains what?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "A CNAME",
+					"correct": "False"
+				},
+
+				{
+					"option": "An IPv4 address",
+					"correct": "True"
+				},
+
+				{
+					"option": "An IPv6 address",
+					"correct": "False"
+				},
+
+				{
+					"option": "A fully qualified domain name",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Select all that are true."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "One domain name can point to one IP.",
+					"correct": "True"
+				},
+
+				{
+					"option": "One domain name can point to many IPs.",
+					"correct": "True"
+				},
+
+				{
+					"option": "Many domain names can point to the same IP.",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "MX stands for ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Micro extreme",
+					"correct": "False"
+				},
+
+				{
+					"option": "Micro exchange",
+					"correct": "False"
+				},
+
+				{
+					"option": "Mail exchange",
+					"correct": "True"
+				},
+
+				{
+					"option": "Meta exchange",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A fully qualified domain name can contain how many characters?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "63",
+					"correct": "False"
+				},
+
+				{
+					"option": "64",
+					"correct": "False"
+				},
+
+				{
+					"option": "127",
+					"correct": "False"
+				},
+
+				{
+					"option": "255",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

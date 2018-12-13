@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Overview of DHCP",
+		"activityType":"video",
+		"videoURL":"Overview of DHCP.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Overview of DHCP"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

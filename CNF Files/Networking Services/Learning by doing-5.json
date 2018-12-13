@@ -1,0 +1,104 @@
+[{
+	"title": "Learning by doing-5",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Two-factor authentication is_________________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "a method where you need two passwords.",
+					"correct": "False"
+				},
+
+				{
+					"option": "a method that requires two usernames.",
+					"correct": "False"
+				},
+
+				{
+					"option": "a method where you need more than a username and a password.",
+					"correct": "True"
+				},
+
+				{
+					"option": "a method where you authenticate twice..",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "VPNs are known as a _____ protocol."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "tunneling",
+					"correct": "True"
+				},
+
+				{
+					"option": "data link layer",
+					"correct": "False"
+				},
+
+				{
+					"option": "connectionless",
+					"correct": "False"
+				},
+				{
+					"option": "network layer",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A proxy is something that _______________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "encrypts traffic sent across the Internet.",
+					"correct": "False"
+				},
+
+				{
+					"option": "allows for many devices to speak to one other device.",
+					"correct": "False"
+				},
+
+				{
+					"option": "sends data across a single network segment.",
+					"correct": "False"
+				},
+
+				{
+					"option": "communicates on behalf of something else.",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

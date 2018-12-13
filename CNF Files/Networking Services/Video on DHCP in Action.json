@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on DHCP in Action",
+		"activityType":"video",
+		"videoURL":"DHCP in Action.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on DHCP in Action"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

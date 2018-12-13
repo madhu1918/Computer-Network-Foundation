@@ -1,0 +1,19 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Given below are few scenarios, for capturing specialized data through wireshark tool.<br>1. Scenario 1: capture all data.<br>2. Scenario 2: use filters to capture all data on port 3128.<br>3. Scenario 3: use filters to capture data originated/destined to known IP address (like google IP, your friends IP, LMS, proxy server IP)"
+			},
+			{
+				"text": "<b>Note:</b>Capture inherent /ongoing network events. Alternatively use network commands if you can't raise such traffic.This activity is for academic purpose only to understand underlying protocols & tool. This is not an encouragement for invading fellow LAN users privacy. "
+			},
+			{
+				"text": "Submit google docs link.This assignment will be graded out of a total of 10 marks"
+			}
+		]
+	}]
+}]

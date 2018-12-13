@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on DNS Zones",
+		"activityType":"video",
+		"videoURL":"DNS Zones.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on DNS Zones"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Resource Record Types",
+		"activityType":"video",
+		"videoURL":"Resource Record Types.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Resource Record Types"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+
