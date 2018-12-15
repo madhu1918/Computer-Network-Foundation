@@ -1,0 +1,55 @@
+[{
+	"title": "Section - A",
+	"activityType": "quiz",
+	"quizDescription": [{ 
+			"text": "<b>Note :</b> For calculations of subnet masks, first host, last host, Broadcast and network address you need to write the answer as 192.168.0.254"
+		}
+	],
+
+	"questions": [{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Calculate network address for the IPv4 address 221.255.224.0/13"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Calculate Subnet mask for the IPv4 address 192.168.0.254/12"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":" Calculate First host address for the IPv4 address 192.168.0.255/24"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Calculate Last host address for the IPv4 address 192.168.0.1/8"
+				}
+		],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Calculate Broadcast address for the IPv4 address 192.168.0.123/20"
+				}
+			],
+			"max_marks": 1
+		}
+	]
+}]

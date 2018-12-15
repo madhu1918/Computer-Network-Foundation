@@ -1,0 +1,73 @@
+[{
+	"title": "Section - A",
+	"activityType": "quiz",
+	"quizDescription": [{ 
+			"text": "Note: Write the correct answers below. If there are multiple answers, write them in ascending order<br>Example : a, d, g"
+		}
+	],
+
+	"questions": [{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Consider the following statements.<br>I. TCP connections are full duplex.<br>II. TCP has no option for selective acknowledgment<br>III. TCP connections are message streams.<br><br>a. Only I is correct.<br>b. Only I and II are correct.<br>c. Only II and III are correct.<br>d. All of them are correct."
+				}
+			],
+			"max_marks": 1
+		},
+{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Match the following"
+				},
+				{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+			},
+			{
+					"text":"a. P - 2, Q - 1, R - 3, S - 5<br>b. P - 1, Q - 4, R - 2, S - 3<br>c. P - 1, Q - 4, R - 2, S - 5<br>d. P - 2, Q - 4, R - 1, S - 3"
+			}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Which of the following transport layer protocols is used to support electronic mail?<br>a. IP<br>b. UDP<br>c. TCP"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Which of the following is not a peer layer to Data Link Layer?<br>a. Physical Layer<br>b. Application Layer<br>c. Network Layer<br>d. None of the these"
+				}
+		],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Match the following"
+				},
+				{
+			"image": {
+				"imageSRC": "image-3.png",
+				"imageName": ""
+			}
+			},
+			{
+					"text":"a. P - 1, Q - 2, R - 3, S - 4<br>b. P - 3, Q - 4, R - 1, S - 2<br>c. P - 3, Q - 2, R - 4, S - 1<br>d. P - 1, Q - 4, R - 2, S - 3"
+			}
+			],
+			"max_marks": 1
+		}
+	]
+}]

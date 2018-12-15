@@ -1,0 +1,17 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "<br><br>Download: Download the Question paper pdf given below"
+			},
+			{
+				"attachment": ["Section - B.pdf"]
+			}
+		]
+	}]
+}]

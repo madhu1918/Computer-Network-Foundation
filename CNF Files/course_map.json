@@ -186,11 +186,21 @@
             ],
             "title": "Networking Services"
         },
-        {
-            "activities": [],
+       {
+            "activities": [
+                "Fill in the blanks-1",
+                "Fill in the blanks-2",
+                "Fill in the blanks-3"
+                "Assignment-1"
+            ],
             "learningObjectives": [],
-            "overview": [],
-            "title": "Week Exam - 1"
+            "overview": [
+                "Max Marks - 25",
+                "<b>Instructions:</b>",
+                "Section A is of 15 marks. There are 15 fill in the blanks. Each blank carries 1 mark.",
+                "Section B is of 10 marks."
+            ],
+            "title": "Week - 1 Exam"
         },
         {
             "activities": [],

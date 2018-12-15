@@ -1,0 +1,64 @@
+[{
+	"title": "Section - A",
+	"activityType": "quiz",
+	"quizDescription": [{ 
+			"text": "Note: Write the correct answers below. If there are multiple answers, write them in ascending order<br>Example : a, d, g"
+		}
+	],
+
+	"questions": [{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Which of following IP address can be used in WAN ?<br>a. 10.0.0.1<br>b. 10.10.10.3<br>c. 15.1.5.6<br>d. 192.168.0.12"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":" If Direct Broadcast Address of subnet is 201.15.16.31. Which of the following will be subnet mask ?<br>a. 255.255.255.240<br>b. 255.255.255.192<br>c. 255.255.255.198<br>d. All of the above"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"The network 198.78.41.0 is a<br>a. Class A<br>b. Class B<br>c. Class C<br>d. Class D"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Generally TCP is reliable and UDP is not reliable. DNS which has to be reliable uses UDP because<br>a. UDP is slower<br>b. DNS servers has to keep connections<br>c. DNS requests are generally very small and fit well with UDP segments<br>d. None of these."
+				}
+		],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Match the following"
+				},
+				{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+			},
+			{
+					"text":"a. A - 4, B - 3, C - 1, D - 4<br>b. A - 3, B - 4, C - 2, D - 1<br>c. A - 4, B - 2, C - 3, D - 1<br>d. A - 4, B - 3, C - 2, D - 1"
+			}
+			],
+			"max_marks": 1
+		}
+	]
+}]
