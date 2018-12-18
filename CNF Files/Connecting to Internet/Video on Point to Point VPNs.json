@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Point to Point VPNs",
+		"activityType":"video",
+		"videoURL":"Point-to-Point VPNs.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Point to Point VPNs"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

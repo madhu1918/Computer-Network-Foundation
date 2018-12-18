@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on What is Broadband",
+		"activityType":"video",
+		"videoURL":"What is broadband.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on What is Broadband"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

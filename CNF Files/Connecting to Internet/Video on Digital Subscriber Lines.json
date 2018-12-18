@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Digital Subscriber Lines",
+		"activityType":"video",
+		"videoURL":"Digital Subscriber Lines.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Digital Subscriber Lines"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

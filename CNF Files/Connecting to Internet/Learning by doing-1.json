@@ -1,0 +1,77 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Another term for POTS, or the Plain Old Telephone System, is _______________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Public Switched Telephone Exchange.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Public Available Telephone Exchange.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Phone Switched Transport Network.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Public Switched Telephone Network.",
+					"correct": "True"
+				},
+
+				{
+					"option": "Public Available Telephone Network.",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A baud rate is a measurement of the number of ______________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "packets that can be sent across a telephone line every second.",
+					"correct": "False"
+				},
+
+				{
+					"option": "data segments that can be sent across a telephone line every second.",
+					"correct": "False"
+				},
+
+				{
+					"option": "bytes that can be sent across a telephone line every second.",
+					"correct": "False"
+				},
+
+				{
+					"option": "bits that can be sent across a telephone line every second.",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

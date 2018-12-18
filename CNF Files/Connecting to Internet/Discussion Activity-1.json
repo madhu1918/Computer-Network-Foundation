@@ -1,0 +1,16 @@
+[{
+	"title": "Discussion Activity",
+	"activityType": "quiz",
+	"quizDescription": [{
+			"text": "<b>Your Daily Connection</b> "
+		},
+		{
+			"text": "For one day, keep a list of how many times you connect to the Internet. Respond to the following questions and share with your classmates:<ul><li>How many times you connected to the Internet</li><li>Method(s) you used to connect to the Internet (broadband, mobile, etc.)</li><ul>"
+		}
+
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion Activity"
+	}]
+}]

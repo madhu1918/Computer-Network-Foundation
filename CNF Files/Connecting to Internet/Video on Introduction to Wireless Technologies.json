@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Introduction to Wireless Technologies",
+		"activityType":"video",
+		"videoURL":"Introduction to Wireless Networking Technologies.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Introduction to Wireless Technologies"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

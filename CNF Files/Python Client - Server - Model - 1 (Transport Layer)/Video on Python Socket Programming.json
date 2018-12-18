@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Python Socket Programming",
+		"activityType":"video",
+		"videoURL":"Python Networking.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Python Socket Programming"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

@@ -1,0 +1,444 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The rate at which a dial-up connection can send data across a telephone wire is known as a _____ rate."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "baud",
+					"correct": "True"
+				},
+
+				{
+					"option": "data",
+					"correct": "False"
+				},
+
+				{
+					"option": "transfer",
+					"correct": "False"
+				},
+
+				{
+					"option": "voice",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A modulator/demodulator is better known as a _____."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "telephone",
+					"correct": "False"
+				},
+
+				{
+					"option": "radio",
+					"correct": "False"
+				},
+
+				{
+					"option": "modem",
+					"correct": "True"
+				},
+
+				{
+					"option": "computer",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A T1 consists of _____ telephone channels."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "1",
+					"correct": "False"
+				},
+
+				{
+					"option": "24",
+					"correct": "True"
+				},
+
+				{
+					"option": "28",
+					"correct": "False"
+				},
+
+				{
+					"option": "100",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A T3 consists of _____ T1 lines."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "1",
+					"correct": "False"
+				},
+
+				{
+					"option": "24",
+					"correct": "False"
+				},
+
+				{
+					"option": "28",
+					"correct": "True"
+				},
+
+				{
+					"option": "100",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The more accurate name for a modem used for a DSL connection is a ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "POTS",
+					"correct": "False"
+				},
+
+				{
+					"option": "DSLAM",
+					"correct": "True"
+				},
+
+				{
+					"option": "CMTS",
+					"correct": "False"
+				},
+
+				{
+					"option": "ONT",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "FTTP stands for _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Fiber to the Premises",
+					"correct": "True"
+				},
+
+				{
+					"option": "Fiber to the People",
+					"correct": "False"
+				},
+
+				{
+					"option": "Fiber Telephone Total Package",
+					"correct": "False"
+				},
+
+				{
+					"option": "File Transfer Telephone Protocol",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "ONT stands for ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Optical Network Telephone",
+					"correct": "False"
+				},
+
+				{
+					"option": "Optional Network Traffic",
+					"correct": "False"
+				},
+
+				{
+					"option": "Optical Network Tether",
+					"correct": "False"
+				},
+
+				{
+					"option": "Optical Network Terminator",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A section of the radio spectrum that’s been agreed upon to be used for certain communications is known as a _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "frequency band",
+					"correct": "True"
+				},
+
+				{
+					"option": "channel",
+					"correct": "False"
+				},
+
+				{
+					"option": "collision domain",
+					"correct": "False"
+				},
+
+				{
+					"option": "wireless LAN",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The first field in an 802.11 header is known as a ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Duration Field",
+					"correct": "False"
+				},
+
+				{
+					"option": "Sequence Control Field",
+					"correct": "False"
+				},
+
+				{
+					"option": "Frame Control Field",
+					"correct": "True"
+				},
+
+				{
+					"option": "Preamble",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A traditional wireless network involving access points that all have wired connections is known as a(n) _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "LAN",
+					"correct": "False"
+				},
+
+				{
+					"option": "WLAN",
+					"correct": "True"
+				},
+
+				{
+					"option": "WAN",
+					"correct": "False"
+				},
+
+				{
+					"option": "ad-hoc network",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The original and flawed wireless security protocol is known as _____."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "WEP",
+					"correct": "True"
+				},
+
+				{
+					"option": "WPA",
+					"correct": "False"
+				},
+
+				{
+					"option": "MAC filtering",
+					"correct": "False"
+				},
+
+				{
+					"option": "VPN",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "WPA2 uses a key that's ____ bits long."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "64",
+					"correct": "False"
+				},
+
+				{
+					"option": "128",
+					"correct": "False"
+				},
+
+				{
+					"option": "256",
+					"correct": "True"
+				},
+
+				{
+					"option": "512",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "WPA stands for _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "WiFi Protected Access",
+					"correct": "True"
+				},
+
+				{
+					"option": "Wireless Protection Augmentation",
+					"correct": "False"
+				},
+
+				{
+					"option": "WiFi Proxy Access",
+					"correct": "False"
+				},
+
+				{
+					"option": "Wired Protected Access",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Another name for cellular networking is ______ networking."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "wide area",
+					"correct": "False"
+				},
+
+				{
+					"option": "organic",
+					"correct": "False"
+				},
+
+				{
+					"option": "computer",
+					"correct": "False"
+				},
+
+				{
+					"option": "mobile",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

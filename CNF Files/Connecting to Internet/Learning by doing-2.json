@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "T1 is short for __________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Transportation System 1.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Transmission 1.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Transportation 1.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Transmission System 1.",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "How fast is a T1 line?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "128 Mb/sec",
+					"correct": "False"
+				},
+
+				{
+					"option": "1.544 Mb/sec",
+					"correct": "True"
+				},
+
+				{
+					"option": "1 Mb/sec",
+					"correct": "False"
+				},
+
+				{
+					"option": "44.763 Mb/sec",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Select all statements that are true of cable internet connections."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "They're shared bandwidth connections.",
+					"correct": "False"
+				},
+
+				{
+					"option": "They're broadband connections.",
+					"correct": "True"
+				},
+
+				{
+					"option": "They're dial-up connections.",
+					"correct": "False"
+				},
+
+				{
+					"option": "They're wireless connections.",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

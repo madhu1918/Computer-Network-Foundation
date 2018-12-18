@@ -1,0 +1,9 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>Java Socket Programming</b><br>Focus is on learning how to use java socket interface rather than creating code. Following videos are tutorials for java sockets explained through echo server example, this means the server program sends back what every communication it receives from the client. Please go through videos posted here for your understanding. Java socket interface, for client,and for server.Here is the code for creating <a href=\"https://docs.oracle.com/javase/tutorial/networking/sockets/examples/EchoServer.java\"> EchoServer</a> and <a href=\"https://docs.oracle.com/javase/tutorial/networking/sockets/examples/EchoClient.java\"> EchoClient</a> program using Java."
+		}
+	]
+}]

@@ -1,0 +1,15 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Sockets are the fundamental technology for programming software to communicate on TCP/IP networks. A socket provides a bidirectional communication endpoint for sending and receiving data with another socket. Socket connections normally run between two different computers on a LAN or across the Internet, but they can also be used for interprocess communication on a single computer."
+		},
+		{
+			"text": "<br>Programmers access sockets using code libraries packaged with the operating system. Several libraries that implement standard application programming interfaces (APIs) exist. The first mainstream package - the Berkeley Socket Library is still widely in use on UNIX systems. Another very common API is the Windows Sockets (Winsock) library for Microsoft operating systems. Relative to other network programming technologies, socket APIs are quite mature: Winsock has been in use since 1993 and Berkeley sockets since 1982."
+		},
+		{
+			"text": "<br>Socket interfaces can be divided into three categories.<br>1. Perhaps the most commonly-used type, the stream socket, implements \"connection-oriented\" semantics. Essentially, a \"stream\" requires that the two communicating parties first establish a socket connection, after which any data passed through that connection will be guaranteed to arrive in the same order in which it was sent.<br>2. Datagram sockets offer \"connection-less\" semantics. With datagrams, connections are implicit rather than explicit as with streams. Either party simply sends datagrams as needed and waits for the other to respond; messages can be lost in transmission or received out of order, but it is the application's responsibility and not the socket's to deal with these problems. Implementing datagram sockets can give some applications a performance boost and additional flexibility compared to using stream sockets, justifying their use in some situations.<br>3. The third type of socket -- the so-called raw socket -- bypasses the library's built-in support for standard protocols like TCP and UDP. Raw sockets are used for custom low-level protocol development."
+		}
+	]
+}]

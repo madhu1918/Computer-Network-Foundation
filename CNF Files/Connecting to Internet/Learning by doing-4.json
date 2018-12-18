@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-4",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "How many address fields does an 802.11 header have?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "1",
+					"correct": "False"
+				},
+
+				{
+					"option": "2",
+					"correct": "False"
+				},
+
+				{
+					"option": "3",
+					"correct": "False"
+				},
+
+				{
+					"option": "4",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A wireless channel is ____________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "a portion of a frequency band.",
+					"correct": "True"
+				},
+
+				{
+					"option": "a collision domain.",
+					"correct": "False"
+				},
+
+				{
+					"option": "an example of an ad-hoc network.",
+					"correct": "False"
+				},
+
+				{
+					"option": "a point-to-point wireless connection.",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "checkbox",
+			"questionText": [{
+				"text": "Choose all of the frequencies that wireless networks typically operate on."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "88Mhz",
+					"correct": "False"
+				},
+
+				{
+					"option": "1.544Ghz",
+					"correct": "False"
+				},
+
+				{
+					"option": "2.4Ghz",
+					"correct": "True"
+				},
+
+				{
+					"option": "5Ghz",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

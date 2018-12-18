@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Wireless Security",
+		"activityType":"video",
+		"videoURL":"Wireless Security.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize theVideo on Wireless Security"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

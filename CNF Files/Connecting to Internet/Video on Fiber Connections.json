@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Fiber Connections",
+		"activityType":"video",
+		"videoURL":"Fiber Connections.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Fiber Connections"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

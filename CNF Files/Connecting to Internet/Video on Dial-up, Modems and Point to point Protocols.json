@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Dial-up, Modems and Point to point Protocols",
+		"activityType":"video",
+		"videoURL":"Dial Up Modems Point to Point Protocols.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Dial-up, Modems and Point to point Protocols"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

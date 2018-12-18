@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-3",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "WAN stands for ______________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Wide Area Network.",
+					"correct": "True"
+				},
+
+				{
+					"option": "Wireless Local Area Network.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Wireless Area Network.",
+					"correct": "False"
+				},
+
+				{
+					"option": "Wired Area Network.",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "In a WAN, the area between a demarcation point and the ISP's core network is known as ___________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "a local link",
+					"correct": "False"
+				},
+
+				{
+					"option": "a Local Area Network",
+					"correct": "False"
+				},
+
+				{
+					"option": "an access point",
+					"correct": "False"
+				},
+
+				{
+					"option": "a local loop",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A point-to-point VPN is also known as a ______________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "site-to-site VPN",
+					"correct": "True"
+				},
+
+				{
+					"option": "one-to-many VPN",
+					"correct": "False"
+				},
+
+				{
+					"option": "port forwarding VPN",
+					"correct": "False"
+				},
+
+				{
+					"option": "data link VPN",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

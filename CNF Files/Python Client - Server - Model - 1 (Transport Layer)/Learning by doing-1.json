@@ -1,0 +1,11 @@
+[{
+"title": "Learning by doing-1",
+"activityType": "assignment",
+"questions": [{
+	"questionType": "fillintheblank",
+	"questionText": [{
+		"text": "Implement the following TCP - IP client server program by implementing the client which sends some text to server, in return server sends the text by updating to all capital letters.<br><b>Push your code to github manually and then submit the commit id.</b>"
+	}]
+
+}]
+}]

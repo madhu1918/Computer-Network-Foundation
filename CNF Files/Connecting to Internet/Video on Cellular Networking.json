@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Cellular Networking",
+		"activityType":"video",
+		"videoURL":"Cellular Networking.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Cellular Networking"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

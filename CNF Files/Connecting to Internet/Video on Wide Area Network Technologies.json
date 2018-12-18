@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Wide Area Network Technologies",
+		"activityType":"video",
+		"videoURL":"Wide Area Network Technologies.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Wide Area Network Technologies"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

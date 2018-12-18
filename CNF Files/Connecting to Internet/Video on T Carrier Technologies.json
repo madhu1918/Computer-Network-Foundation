@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on T Carrier Technologies",
+		"activityType":"video",
+		"videoURL":"T-Carrier Technologies.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on T Carrier Technologies"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

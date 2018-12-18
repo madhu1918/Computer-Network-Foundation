@@ -1,0 +1,12 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Unless you end up working as a network engineer at an Internet service provider, chances are you’ll never have to directly interact with any of the protocols that allow for WAN technologies to work. But, if you’d like to learn more about some of the more popular options, you can read about them on Wikipedia. It’s important to note that these protocols usually define how both the physical and data link layers need to operate when they’re deployed."
+		},
+		{
+			"text": "Check out Frame Relay: <a href=\"https://en.wikipedia.org/wiki/Frame_Relay\"> here</a> HDLC, or High-Level Data Link Control: <a href=\"https://en.wikipedia.org/wiki/High-Level_Data_Link_Control\"> here</a> and ATM, or Asynchronous Transfer Mode: <a href=\"https://en.wikipedia.org/wiki/Asynchronous_transfer_mode\"> here</a>"
+		}
+	]
+}]

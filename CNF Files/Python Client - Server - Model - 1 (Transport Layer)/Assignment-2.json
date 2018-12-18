@@ -1,0 +1,22 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Implement the following UDP client server program."
+			},
+			{
+					"image": {
+						"imageSRC": "image-2.png",
+						"imageName": ""
+					}
+			},
+			{
+				"text": "Push your code to github manually and then submit the commit id."
+			}
+		]
+	}]
+}]

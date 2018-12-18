@@ -1,0 +1,15 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>BroadBand Protocols</b><br>Internet connections used to require very careful setup, configuration and monitoring. Today, an Internet connection is mostly a working service provided by an ISP that doesn’t require much maintenance by those that use it. So it’s unlikely that you’ll actually have to troubleshoot or diagnose anything to do with the protocols that help broadband, or even dial-up connections, work.<br><br>But, in case you want to learn more about these protocols, the two primary ones are PPP, or Point-to-Point Protocol, and PPPoE, or Point-to-Point Protocol over Ethernet. They’re both data link layer protocols.<br>You can learn more about the details of how these protocols work on Wikipedia:"
+		},
+		{
+			"text": "<b>PPP :</b> <a href=\"https://en.wikipedia.org/wiki/Point-to-Point_Protocol\"> here</a>"
+		},
+		{
+			"text": "<b>PPPoE :</b> <a href=\"https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_Ethernet\"> here</a>"
+		}
+	]
+}]

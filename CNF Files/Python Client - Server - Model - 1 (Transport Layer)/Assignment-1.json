@@ -1,0 +1,22 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Implement the following TCP - IP client server program."
+			},
+			{
+					"image": {
+						"imageSRC": "image-1.png",
+						"imageName": ""
+					}
+			},
+			{
+				"text": "Push your code to github manually and then submit the commit id."
+			}
+		]
+	}]
+}]
