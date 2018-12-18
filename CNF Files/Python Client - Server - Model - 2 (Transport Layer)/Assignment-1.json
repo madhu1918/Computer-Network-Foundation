@@ -7,11 +7,14 @@
 		"graded": true,
 		"questionText": [
 			{
-				"text": "Push your code to github manually and then submit the commit id."
+				"text": "Follow the above reading material to complete the assignment.<br><b>Multi-Connection Client and Server</b><br>Here is the PDF to download :"
 			},
 			{
 			"attachment": ["--.pdf"]
-		}
+			},
+			{
+				"text": "Push your code to github manually and then submit the commit id."
+			},
 		]
 	}]
 }]
