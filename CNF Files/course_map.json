@@ -280,9 +280,20 @@
             "title": "Python Client - Server - Model - 2 (Transport Layer)"
         },
         {
-            "activities": [],
-            "learningObjectives": [],
-            "overview": [],
+            "activities": [
+                "Reading Activity-1",
+                "Assignment-1"   
+            ],
+            "learningObjectives": [
+                "understand the key protocols which support the Internet",
+                "have a detailed knowledge of the TCP/UDP Sockets",
+                "create applications using techniques such as multiplexing, forking, multithreading",
+                "make use of different types of I/O such as non-blocking I/O and event driven I/O",
+                "make use of various solutions to perform inter-process communications"
+            ],
+            "overview": [
+                "Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+            ],
             "title": "Python Client - Server - Model - 3 (Transport Layer)"
         },
         {

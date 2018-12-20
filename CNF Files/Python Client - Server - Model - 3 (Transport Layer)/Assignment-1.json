@@ -1,0 +1,20 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Follow the above reading material to complete the assignment.<br><b>Multi-Connection Client and Server</b><br>Here is the PDF to download :"
+			},
+			{
+			"attachment": ["Chat Application.pdf"]
+			},
+			{
+				"text": "Push your code to github manually and then submit the commit id."
+			}
+		]
+	}]
+}]
