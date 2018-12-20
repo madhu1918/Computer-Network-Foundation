@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "One of Level 3's public DNS servers is ____________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "4.2.2.3",
+					"correct": "True"
+				},
+
+				{
+					"option": "8.8.8.8",
+					"correct": "False"
+				},
+
+				{
+					"option": "127.0.0.1",
+					"correct": "False"
+				},
+
+				{
+					"option": "192.168.1.1",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A DNS resolver tool available on all major desktop operating systems is __________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "nslookup",
+					"correct": "True"
+				},
+
+				{
+					"option": "ping",
+					"correct": "False"
+				},
+
+				{
+					"option": "tracert",
+					"correct": "False"
+				},
+
+				{
+					"option": "Host",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The organization responsible for DNS at a global level is ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "IANA",
+					"correct": "False"
+				},
+
+				{
+					"option": "ICANN",
+					"correct": "True"
+				},
+
+				{
+					"option": "Google",
+					"correct": "False"
+				},
+
+				{
+					"option": "RFC",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

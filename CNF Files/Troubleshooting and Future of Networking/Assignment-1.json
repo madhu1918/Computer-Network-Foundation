@@ -1,0 +1,465 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The ability for a protocol or program to determine that something went wrong is known as ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "redundancy",
+					"correct": "False"
+				},
+
+				{
+					"option": "data verification",
+					"correct": "False"
+				},
+
+				{
+					"option": "error detection",
+					"correct": "True"
+				},
+
+				{
+					"option": "data resilience",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "ICMP stands for ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Internet Control Message Protocol",
+					"correct": "True"
+				},
+
+				{
+					"option": "Internet Client Message Protocol",
+					"correct": "False"
+				},
+
+				{
+					"option": "Interactive Control Message Protocol",
+					"correct": "False"
+				},
+
+				{
+					"option": "Internet Control Mail Protocol",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "When you send an echo request message with the ping program, a successful attempt will return a(n) ______ message."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "pong",
+					"correct": "False"
+				},
+
+				{
+					"option": "echo reply",
+					"correct": "True"
+				},
+
+				{
+					"option": "blank",
+					"correct": "False"
+				},
+
+				{
+					"option": "Error",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The Linux and macOS program traceroute is known by a slightly different name on Windows. It's referred to as ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "tracepath",
+					"correct": "False"
+				},
+
+				{
+					"option": "ping",
+					"correct": "False"
+				},
+
+				{
+					"option": "ipconfig",
+					"correct": "False"
+				},
+
+				{
+					"option": "Tracert",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "While in an interactive nslookup session, you'd use the ______ keyword to change the DNS server you're using."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "server",
+					"correct": "True"
+				},
+
+				{
+					"option": "client",
+					"correct": "False"
+				},
+
+				{
+					"option": "FQDN",
+					"correct": "False"
+				},
+
+				{
+					"option": "DNS",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "One of Google's public DNS servers is 8.8.8.8. The other one is ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "0.0.0.0",
+					"correct": "False"
+				},
+
+				{
+					"option": "255.255.255.255",
+					"correct": "False"
+				},
+
+				{
+					"option": "8.8.4.4",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "An organization responsible for assigning individual domain names to other organizations or individuals is known as a(n) ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "DNS registrar",
+					"correct": "True"
+				},
+
+				{
+					"option": "internet authority",
+					"correct": "False"
+				},
+
+				{
+					"option": "autonomous system",
+					"correct": "False"
+				},
+
+				{
+					"option": "Government",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The IPv6 loopback address is _____."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "127.0.0.1",
+					"correct": "True"
+				},
+
+				{
+					"option": "0000:0000:0000:0000:0000:0000:0000:0000",
+					"correct": "False"
+				},
+
+				{
+					"option": "0000:0000:0000:0000:0000:0000:0000:0001",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "With virtualization, a single physical machine, called a host, can run many individual virtual instances, called ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "clients",
+					"correct": "False"
+				},
+
+				{
+					"option": "guests",
+					"correct": "True"
+				},
+
+				{
+					"option": "servers",
+					"correct": "False"
+				},
+
+				{
+					"option": "Clouds",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "PaaS stands for ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Platform as a Service",
+					"correct": "True"
+				},
+
+				{
+					"option": "Packets as a Service",
+					"correct": "False"
+				},
+
+				{
+					"option": "Preamble as a Service",
+					"correct": "False"
+				},
+
+				{
+					"option": "Platform as a Schedule",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "IPv6 addresses beginning with FE80:: are used for ______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "public multicast",
+					"correct": "False"
+				},
+
+				{
+					"option": "anycast",
+					"correct": "False"
+				},
+
+				{
+					"option": "Network Address Translation",
+					"correct": "False"
+				},
+
+				{
+					"option": "link local unicast",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Following rules of compaction, the IPv6 address 2001:0db8:0000:0000:0000:ff00:0012:3456 could also be written as _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "21:db8::ff:12:3456",
+					"correct": "False"
+				},
+
+				{
+					"option": "2001:db8::ff00:12:3456",
+					"correct": "True"
+				},
+
+				{
+					"option": "::1",
+					"correct": "False"
+				},
+
+				{
+					"option": "0000:0000:0000:0000:0000:0000:0000:0001",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "or all IPv6 addresses, the network ID is always the first ______ bits."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "16",
+					"correct": "False"
+				},
+
+				{
+					"option": "32",
+					"correct": "False"
+				},
+
+				{
+					"option": "64",
+					"correct": "True"
+				},
+
+				{
+					"option": "128",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The equivalent of the TTL field in an IPv4 header is known as the ______ field in an IPv6 header."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "hop limit",
+					"correct": "True"
+				},
+
+				{
+					"option": "traffic class",
+					"correct": "False"
+				},
+
+				{
+					"option": "next header",
+					"correct": "False"
+				},
+
+				{
+					"option": "flow label",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The IPV4 mapped address space within IPv6 always starts with _______ zeroes."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "32",
+					"correct": "False"
+				},
+
+				{
+					"option": "64",
+					"correct": "False"
+				},
+
+				{
+					"option": "80",
+					"correct": "False"
+				},
+
+				{
+					"option": "128",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

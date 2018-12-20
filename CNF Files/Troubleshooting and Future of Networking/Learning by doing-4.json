@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-4",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "An IPv6 address is how many bits long?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "16",
+					"correct": "False"
+				},
+
+				{
+					"option": "32",
+					"correct": "False"
+				},
+
+				{
+					"option": "64",
+					"correct": "False"
+				},
+
+				{
+					"option": "128",
+					"correct": "True"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The very first field in an IPv6 header is the _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "traffic class field",
+					"correct": "False"
+				},
+
+				{
+					"option": "data payload field",
+					"correct": "False"
+				},
+
+				{
+					"option": "version field",
+					"correct": "True"
+				},
+
+				{
+					"option": "source address field",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The IPv6 header field that indicates how many routers can forward a packet before it's discarded is called the ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "router forward field",
+					"correct": "False"
+				},
+
+				{
+					"option": "next header field",
+					"correct": "False"
+				},
+
+				{
+					"option": "TTL",
+					"correct": "False"
+				},
+
+				{
+					"option": "hop limit field",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The protocol used to communicate network errors is known as __________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "UDP",
+					"correct": "False"
+				},
+
+				{
+					"option": "ICMP",
+					"correct": "True"
+				},
+
+				{
+					"option": "Traceroute",
+					"correct": "False"
+				},
+
+				{
+					"option": "TCP.",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "The ping utility sends what message type?"
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "Echo Request",
+					"correct": "True"
+				},
+
+				{
+					"option": "Echo Reply",
+					"correct": "False"
+				},
+
+				{
+					"option": "Destination Network Unreachable",
+					"correct": "False"
+				},
+
+				{
+					"option": "Destination Network Unknown",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "On Windows, one of the tools you can use to verify connectivity to a specific port is ________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "ping",
+					"correct": "False"
+				},
+
+				{
+					"option": "tracert",
+					"correct": "False"
+				},
+
+				{
+					"option": "nc (netcat)",
+					"correct": "False"
+				},
+
+				{
+					"option": "Test-NetConnection",
+					"correct": "True"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]

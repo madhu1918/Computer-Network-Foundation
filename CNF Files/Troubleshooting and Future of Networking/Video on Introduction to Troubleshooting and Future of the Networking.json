@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Introduction to Troubleshooting and Future of the Networking",
+		"activityType":"video",
+		"videoURL":"--.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Introduction to Troubleshooting and Future of the Networking"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

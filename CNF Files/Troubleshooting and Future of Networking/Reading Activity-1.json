@@ -1,0 +1,12 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "You can read more about netcat and how to use it at Wikipedia:<a href=\"https://en.wikipedia.org/wiki/Netcat\"> here</a>"
+		},
+		{
+			"text": "For Test-NetConnection, you should head over to Microsoft’s PowerShell documentation:<a href=\"https://technet.microsoft.com/itpro/powershell/windows/nettcpip/test-netconnection\"> here</a>"
+		}
+	]
+}]

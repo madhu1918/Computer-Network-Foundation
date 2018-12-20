@@ -81,7 +81,7 @@
                 "Assignment-8",
                 "Assignment-9",
                 "Assignment-10"
-                
+
 
             ],
             "learningObjectives": [
@@ -186,7 +186,7 @@
             ],
             "title": "Networking Services"
         },
-       {
+        {
             "activities": [
                 "Fill in the blanks-1",
                 "Fill in the blanks-2",
@@ -282,7 +282,7 @@
         {
             "activities": [
                 "Reading Activity-1",
-                "Assignment-1"   
+                "Assignment-1"
             ],
             "learningObjectives": [
                 "understand the key protocols which support the Internet",
@@ -297,9 +297,39 @@
             "title": "Python Client - Server - Model - 3 (Transport Layer)"
         },
         {
-            "activities": [],
-            "learningObjectives": [],
-            "overview": [],
+            "activities": [
+                "Video on Introduction to Troubleshooting and Future of the Networking",
+                "Video on Ping: Internet Control Message Protocol",
+                "Video on Traceroute",
+                "Video on Testing Port Connectivity",
+                "Reading Activity-1",
+                "Learning by doing-1",
+                "Video on Name Resolution Tools",
+                "Video on Public DNS Servers",
+                "Video on DNS Registration and Expiration",
+                "Video on Hosts Files",
+                "Learning by doing-2",
+                "Video on What is the cloud",
+                "Video on Everything as a Service",
+                "Video on Cloud Storage",
+                "Discussion Activity-1",
+                "Learning by doing-3",
+                "Video on IPv6 Addressing and Subnetting",
+                "Video on IPv6 Headers",
+                "Video on IPv6 and IPv4 Harmony",
+                "Reading Activity-2",
+                "Learning by doing-4",
+                "Video on Interview Role Play : Networking",
+                "Video on Congratulations!",
+                "Assignment-1"
+            ],
+            "learningObjectives": [
+                "Inspect common network connectivity problems.",
+                "Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues."
+            ],
+            "overview": [
+                "Congratulations, you've made it to the final day in the course! In the last week of this course, we'll explore the future of computer networking. We'll also cover the practical aspects of troubleshooting a network using popular operating systems. By the end of this module, you'll be able to detect and fix a lot of common network connectivity problems using tools available in Microsoft Windows, MacOS, and Linux operating systems. "
+            ],
             "title": "Troubleshooting and Future of Networking"
         },
         {

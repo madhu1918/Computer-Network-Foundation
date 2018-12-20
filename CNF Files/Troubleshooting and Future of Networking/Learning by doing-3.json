@@ -1,0 +1,103 @@
+[{
+	"title": "Learning by doing-3",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+		"text":"<b>Choose the correct answer below</b>"
+	}
+	],
+	"questions": [{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A piece of software that runs and manages virtual machines is known as a __________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "hypervisor",
+					"correct": "True"
+				},
+
+				{
+					"option": "cloud computing device",
+					"correct": "False"
+				},
+
+				{
+					"option": "virtual instance",
+					"correct": "False"
+				},
+
+				{
+					"option": "cloud storage device",
+					"correct": "False"
+				}
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "Office 365 Outlook is an example of _______."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "FttH",
+					"correct": "False"
+				},
+
+				{
+					"option": "PaaS",
+					"correct": "False"
+				},
+
+				{
+					"option": "SaaS",
+					"correct": "True"
+				},
+
+				{
+					"option": "IaaS",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "mcq",
+			"questionText": [{
+				"text": "A hybrid cloud is ________________."
+			}],
+			"max_marks": 0.5,
+			"options": [{
+					"option": "a combination of a public cloud and hardware virtualization",
+					"correct": "False"
+				},
+
+				{
+					"option": "a combination of a public cloud and a private cloud",
+					"correct": "True"
+				},
+
+				{
+					"option": "a combination of virtual hosts and virtual guests",
+					"correct": "False"
+				},
+
+				{
+					"option": "a combination of a private cloud and a mesh network",
+					"correct": "False"
+				}
+
+
+			],
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]
